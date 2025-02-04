@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I'm interested in web development and cybersecurity<br>🔭 I’m currently working as independent developer<br>👯 I’m looking to collaborate on web development related projects<br>🌱 I’m currently learning cybersecurity in web development 
+👀 I'm interested in sofware and web develpment<br>🔭 I’m currently searching for web development jobs<br>👯 I’m looking to collaborate on web development related projects<br>🌱 I’m currently studying to get an AWS Certified Cloud Practitioner
 
 
 ## 🌐 Socials:
