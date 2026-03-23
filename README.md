@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I'm interested in sofware and web develpment<br>🔭 I’m currently working as junior developer in Frust Inc<br>👯 I’m looking to collaborate on web development related projects<br>🌱 I’m currently studying to get an AWS Certified Cloud Practitioner
+👀 I'm interested in sofware and web develpment<br>🔭 I’m currently working as a freelancer looking for oportunities<br>👯 I’m looking to collaborate on web development related projects<br>🌱 I’m currently studying to get an AWS Certified Cloud Practitioner
 
 
 ## 🌐 Socials:
